@@ -4,7 +4,7 @@ A new Flutter project using stacks and positioned in Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application./n
+This project is a starting point for a Flutter application.\n
 🚀 Tech Stack
 
 Flutter (Dart)
