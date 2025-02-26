@@ -1,16 +1,16 @@
-# flutter_application_project1
+# credit card interface using flutter 
 
-A new Flutter project.
+A new Flutter project using stacks and positioned in Flutter 
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+🚀 Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
+Flutter (Dart)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Provider (State Management)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+CustomPaint & ClipPath (UI Design)
+
+Animations & Transitions (Smooth UX)
